@@ -1,0 +1,9 @@
+flask
+scikit-learn
+numpy
+pandas
+gunicorn
+seaborn
+lightgbm
+xgboost
+prettytable
